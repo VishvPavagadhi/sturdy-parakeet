@@ -1,3 +1,4 @@
+%Stress in Cantilever beam 
 clc
 clear all
 E = 2e11; % Young's modulus in Pa
